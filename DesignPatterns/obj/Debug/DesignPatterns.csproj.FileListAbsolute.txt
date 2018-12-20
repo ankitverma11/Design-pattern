@@ -1,0 +1,10 @@
+E:\Ankit\WorkArea\DesignPatterns\DesignPatterns\bin\Debug\DesignPatterns.exe.config
+E:\Ankit\WorkArea\DesignPatterns\DesignPatterns\bin\Debug\DesignPatterns.exe
+E:\Ankit\WorkArea\DesignPatterns\DesignPatterns\bin\Debug\DesignPatterns.pdb
+E:\Ankit\WorkArea\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.csprojAssemblyReference.cache
+E:\Ankit\WorkArea\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.Properties.Resources.resources
+E:\Ankit\WorkArea\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.Singleton.Singleton.resources
+E:\Ankit\WorkArea\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.csproj.GenerateResource.cache
+E:\Ankit\WorkArea\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.csproj.CoreCompileInputs.cache
+E:\Ankit\WorkArea\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.exe
+E:\Ankit\WorkArea\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.pdb
